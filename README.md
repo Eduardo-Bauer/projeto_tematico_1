@@ -43,7 +43,7 @@ Desenvolver um sistema eficiente para gerenciamento de dados que atenda às nece
 - Garantir a integridade e segurança dos dados manipulados pelo sistema.
 - Proporcionar uma interface de usuário intuitiva e de fácil utilização.
 
-## 3.🛠️Requisitos do Sistema
+## 3.🔧 Requisitos do Sistema
 
 ### Requisitos Funcionais
 
